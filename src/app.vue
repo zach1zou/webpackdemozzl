@@ -1,7 +1,7 @@
 
 
 <template>
-    <div >App</div>
+    <div id="app">App成功渲染了  牛啊牛啊</div>
 </template>
 
 <script>
